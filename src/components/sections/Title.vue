@@ -25,7 +25,27 @@ const btn_color = '#444444'
 const authors = [
   {
     name: "Yuzhao Luo",
-    address_flag: "1,#"
+    address_flag: "1"
+  },
+	{
+    name: "Ming Zhu",
+    address_flag: "1"
+  },
+	{
+    name: "Xinghan Liu",
+    address_flag: "1"
+  },
+	{
+    name: "Hengzhi Su",
+    address_flag: "1"
+  },
+	{
+    name: "Yapeng Hu",
+    address_flag: "1"
+  },
+	{
+    name: "Tian Chen",
+    address_flag: "1,*"
   },
   // {
   //   name: "Anya Forger",
@@ -57,7 +77,7 @@ const addresses = [
 
 // 共一和通讯提示
 const con_and_corresponding_author = 
-  "#: Equal Contribution. *: Corresponding Author."
+  "*: Corresponding Author."
 
 // // 最新消息
 // const news = "🔥 [2024-12-15] This template project is still under development."
