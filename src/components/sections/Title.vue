@@ -75,7 +75,7 @@ const con_and_corresponding_author =
 // 提供引导资料链接
 const buttons = [
   {
-    disabled: true,
+    disabled: false,
     name: "Paper",
     component: Document,
 	  // link: "https://github.com/JunyaoHu/academic-project-page-template-vue",
@@ -87,13 +87,13 @@ const buttons = [
     component: Files,
   },
   {
-    disabled: true,
+    disabled: false,
     name: "DataSet(Huggingface)",
     // link: "https://github.com/JunyaoHu/academic-project-page-template-vue",
     component: Picture,
   },
   {
-    disabled: true,
+    disabled: false,
     name: "DataSet(ModelScope)",
     // link: "https://github.com/JunyaoHu/academic-project-page-template-vue",
     component: Picture,
