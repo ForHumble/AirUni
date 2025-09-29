@@ -32,7 +32,7 @@ export default {
     Collapse,
     Table,
     SeletionForComparison,
-    Comment,
+    // Comment,
     Latex,
     Model3D,
     GaussianSplats3D
@@ -57,5 +57,4 @@ export default {
   <ImageSlider/>
   <ImageSelector/>
   <BibTeX/>
-  <Comment/>
 </template>
