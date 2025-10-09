@@ -37,7 +37,7 @@ export default {
     AirUniArchitecture,
     DataSet,
     Experiment,
-    Indoor.
+    Indoor,
     Outdoor,
     // Echart,
     // Collapse,
