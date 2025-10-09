@@ -15,9 +15,18 @@ const model_arch = './airuni_arch.png'
       </el-col>
     </el-row>
     <el-row justify="center">
-      <div>
-        Overview of the AirUni architecture. The model is trained on a large-scale joint indoor–outdoor dataset containing 2.4M samples. It receives multimodal inputs, including textual instructions, historical visual observations, and the current visual frame, and outputs a sequence of predicted actions for the next k time steps.
-      </div>
+      <el-col 
+      :xs="24" :sm="24" :md="20" :lg="16" :xl="12"
+      class="caption-container"
+    >
+      <p>
+        Overview of the AirUni architecture. The model is trained on a large-scale 
+        joint indoor–outdoor dataset containing 2.4M samples. It receives multimodal 
+        inputs, including textual instructions, historical visual observations, 
+        and the current visual frame, and outputs a sequence of predicted actions 
+        for the next k time steps.
+      </p>
+    </el-col>
     </el-row>
 
 </template>
