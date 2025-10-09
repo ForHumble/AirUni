@@ -12,7 +12,8 @@ const data_distribute = './data_distribute.png'
       class="caption-container"
     >
       <p>
-        We collect and construct a joint indoor–outdoor navigation (ION) dataset comprising 2.4M samples. 
+        We constructed a unified dataset of unprecedented scale, 
+        comprising approximately 1.15M indoor samples and 1.25M outdoor samples, yielding a total of 2.4M navigation instances. 
         Built under a video-based multimodal paradigm, each sample contains a natural-language navigation instruction, 
         an egocentric image sequence (video frames), and the corresponding future action sequence.
       </p>
