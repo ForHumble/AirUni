@@ -6,14 +6,6 @@ const model_arch = './data_distribute.png'
   <el-row justify="center">
       <h1 class="section-title">Data Distribute</h1>
   </el-row>
-    <el-row justify="center" style="margin-top: 20px;">
-      <el-col :xs="24" :sm="24" :md="20" :lg="16" :xl="12" >
-        <el-container class="video-container">
-          <!-- <img src="./cover.png" alt="cover" style="width: 100%; height: auto;"> -->
-          <el-image :src="model_arch" style="width: 100%; height: auto;" fit="cover" />
-        </el-container>
-      </el-col>
-    </el-row>
     <el-row justify="center">
       <el-col 
       :xs="24" :sm="24" :md="20" :lg="16" :xl="12"
@@ -26,5 +18,14 @@ const model_arch = './data_distribute.png'
       </p>
     </el-col>
     </el-row>
+    <el-row justify="center" style="margin-top: 20px;">
+      <el-col :xs="24" :sm="24" :md="20" :lg="16" :xl="12" >
+        <el-container class="video-container">
+          <!-- <img src="./cover.png" alt="cover" style="width: 100%; height: auto;"> -->
+          <el-image :src="model_arch" style="width: 100%; height: auto;" fit="cover" />
+        </el-container>
+      </el-col>
+    </el-row>
+    
 
 </template>
