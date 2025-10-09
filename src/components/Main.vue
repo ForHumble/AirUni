@@ -44,9 +44,9 @@ export default {
 
 <template>
   <Title/>
+  <Abstract/>
   <AirUniArchitecture/>
   <Video/>
-  <Abstract/>
   <ImageSliderInner/>
   <ImageSlider/>
   <ImageSelector/>
