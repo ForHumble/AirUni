@@ -4,7 +4,7 @@ const experient_implemention = './experient_implemention.png'
 <template>
   <el-divider />
   <el-row justify="center">
-      <h1 class="section-title">Data Distribute</h1>
+      <h1 class="section-title">Real-world experiments</h1>
   </el-row>
     <el-row justify="center">
       <el-col 
