@@ -20,6 +20,7 @@ import AirUniArchitecture from './sections/AirUniArchitecture.vue'
 import DataSet from './sections/DataSet.vue'
 import R2RVideo from './sections/R2RVideo.vue'
 import RxRVideo from './sections/RxRVideo.vue'
+import Experiment from './sections/Experiment.vue'
 
   
 export default {
@@ -33,6 +34,7 @@ export default {
     RxRVideo,
     AirUniArchitecture,
     DataSet,
+    Experiment,
     // Echart,
     // Collapse,
     // Table,
@@ -52,5 +54,6 @@ export default {
   <DataSet/>
   <R2RVideo/>
   <RxRVideo/>
+  <Experiment/>
   <BibTeX/>
 </template>
