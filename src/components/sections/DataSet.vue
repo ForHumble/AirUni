@@ -29,7 +29,7 @@ const data_structure = './data_structure.png'
       </el-col>
     </el-row>
     <el-row justify="center" style="margin-top: 20px;">
-      <el-col :xs="24" :sm="24" :md="20" :lg="16" :xl="12" >
+      <el-col :xs="20" :sm="20" :md="16" :lg="12" :xl="8" >
         <el-container class="video-container">
           <!-- <img src="./cover.png" alt="cover" style="width: 100%; height: auto;"> -->
           <el-image :src="data_structure" style="width: 100%; height: auto;" fit="cover" />
