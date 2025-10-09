@@ -1,5 +1,6 @@
 <script setup>
 const data_distribute = './data_distribute.png'
+const data_structure = './data_structure.png'
 </script>
 <template>
   <el-divider />
@@ -24,6 +25,14 @@ const data_distribute = './data_distribute.png'
         <el-container class="video-container">
           <!-- <img src="./cover.png" alt="cover" style="width: 100%; height: auto;"> -->
           <el-image :src="data_distribute" style="width: 100%; height: auto;" fit="cover" />
+        </el-container>
+      </el-col>
+    </el-row>
+    <el-row justify="center" style="margin-top: 20px;">
+      <el-col :xs="24" :sm="24" :md="20" :lg="16" :xl="12" >
+        <el-container class="video-container">
+          <!-- <img src="./cover.png" alt="cover" style="width: 100%; height: auto;"> -->
+          <el-image :src="data_structure" style="width: 100%; height: auto;" fit="cover" />
         </el-container>
       </el-col>
     </el-row>
