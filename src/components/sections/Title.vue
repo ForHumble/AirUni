@@ -25,23 +25,23 @@ const btn_color = '#444444'
 const authors = [
   {
     name: "Yuzhao Luo",
-    address_flag: "1"
+    address_flag: "1,1"
   },
 	{
     name: "Ming Zhu",
-    address_flag: "1"
+    address_flag: "1,2"
   },
 	{
     name: "Xinghan Liu",
-    address_flag: "1"
+    address_flag: "1,3"
   },
 	{
     name: "Hengzhi Su",
-    address_flag: "1"
+    address_flag: "1,4"
   },
 	{
     name: "Yapeng Hu",
-    address_flag: "1"
+    address_flag: "1,5"
   },
 	{
     name: "Tian Chen",
