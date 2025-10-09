@@ -1,5 +1,5 @@
 <script setup>
-const model_arch = './data_distribute.png'
+const data_distribute = './data_distribute.png'
 </script>
 <template>
   <el-divider />
@@ -22,7 +22,7 @@ const model_arch = './data_distribute.png'
       <el-col :xs="24" :sm="24" :md="20" :lg="16" :xl="12" >
         <el-container class="video-container">
           <!-- <img src="./cover.png" alt="cover" style="width: 100%; height: auto;"> -->
-          <el-image :src="model_arch" style="width: 100%; height: auto;" fit="cover" />
+          <el-image :src="data_distribute" style="width: 100%; height: auto;" fit="cover" />
         </el-container>
       </el-col>
     </el-row>
