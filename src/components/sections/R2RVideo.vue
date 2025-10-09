@@ -16,21 +16,21 @@
         <!-- local -->
         <el-container class="video-container">
           <video controls muted preload playsinline>
-            <source src="/video/R2R/54.gif" type="video/gif">
+            <source src="/video/R2R/54.mp4" type="video/mp4">
           </video>
         </el-container>
 
          <!-- local -->
         <el-container class="video-container">
           <video controls muted preload playsinline>
-            <source src="/video/R2R/1277.gif" type="video/gif">
+            <source src="/video/R2R/1277.mp4" type="video/mp4">
           </video>
         </el-container>
 
          <!-- local -->
         <el-container class="video-container">
           <video controls muted preload playsinline>
-            <source src="/video/R2R/1527.gif" type="video/gif">
+            <source src="/video/R2R/1527.mp4" type="video/mp4">
           </video>
         </el-container>
         
