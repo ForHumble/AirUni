@@ -16,6 +16,7 @@ import Comment from './sections/Comment.vue'
 import Latex from './sections/Latex.vue'
 import Model3D from './sections/Model3D.vue'
 import GaussianSplats3D from './sections/GaussianSplats3D.vue'
+import AirUniArchitecture from './sections/AirUniArchitecture.vue'
 
 export default {
   components: {
@@ -25,6 +26,7 @@ export default {
     BibTeX,
     // Carousel,
     Video,
+    AirUniArchitecture,
     ImageSlider,
     ImageSliderInner,
     ImageSelector,
@@ -42,6 +44,7 @@ export default {
 
 <template>
   <Title/>
+  <AirUniArchitecture/>
   <Video/>
   <Abstract/>
   <ImageSliderInner/>
