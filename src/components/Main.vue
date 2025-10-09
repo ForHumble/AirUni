@@ -17,8 +17,10 @@ import Latex from './sections/Latex.vue'
 import Model3D from './sections/Model3D.vue'
 import GaussianSplats3D from './sections/GaussianSplats3D.vue'
 import AirUniArchitecture from './sections/AirUniArchitecture.vue'
+import DataSet from './sections/DataSet.vue'
 import R2RVideo from './sections/R2RVideo.vue'
 import RxRVideo from './sections/RxRVideo.vue'
+
   
 export default {
   components: {
@@ -30,6 +32,7 @@ export default {
     R2RVideo,
     RxRVideo,
     AirUniArchitecture,
+    DataSet,
     // Echart,
     // Collapse,
     // Table,
@@ -46,6 +49,7 @@ export default {
   <Title/>
   <Abstract/>
   <AirUniArchitecture/>
+  <DataSet/>
   <R2RVideo/>
   <RxRVideo/>
   <BibTeX/>
