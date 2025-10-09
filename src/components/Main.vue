@@ -17,6 +17,7 @@ import Latex from './sections/Latex.vue'
 import Model3D from './sections/Model3D.vue'
 import GaussianSplats3D from './sections/GaussianSplats3D.vue'
 import AirUniArchitecture from './sections/AirUniArchitecture.vue'
+import R2RVideo from './sections/R2RVideo.vue'
 
 export default {
   components: {
@@ -25,11 +26,8 @@ export default {
     Markdown,
     BibTeX,
     // Carousel,
-    Video,
+    R2RVideo,
     AirUniArchitecture,
-    ImageSlider,
-    ImageSliderInner,
-    ImageSelector,
     // Echart,
     // Collapse,
     // Table,
@@ -46,9 +44,6 @@ export default {
   <Title/>
   <Abstract/>
   <AirUniArchitecture/>
-  <Video/>
-  <ImageSliderInner/>
-  <ImageSlider/>
-  <ImageSelector/>
+  <R2RVideo/>
   <BibTeX/>
 </template>
