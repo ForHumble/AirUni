@@ -7,7 +7,7 @@ import { Document, Files, MagicStick, Picture, DataAnalysis, Film } from '@eleme
 const logo = ''
 
 // 标题
-const title = 'AirUni: Unified Vision-Language Navigation for UAVs in Indoor and Outdoor Scenes'
+const title = 'AirUniNav: Unified Vision-Language Navigation for UAVs in Indoor and Outdoor Scenes'
 
 // 标题颜色
 const title_color = '#000000'
