@@ -4,7 +4,7 @@ const model_arch = './airuni_arch.png'
 <template>
   <el-divider />
   <el-row justify="center">
-      <h1 class="section-title">AirUni Architecture</h1>
+      <h1 class="section-title">AirUniNav Architecture</h1>
   </el-row>
     <el-row justify="center" style="margin-top: 20px;">
       <el-col :xs="24" :sm="24" :md="20" :lg="16" :xl="12" >
