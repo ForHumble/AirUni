@@ -61,8 +61,6 @@ export default {
   <R2RVideo/>
   <RxRVideo/>
   <Experiment/>
-  <Indoor/>
-  <Outdoor/>
   <RealExperiment/>
   <BibTeX/>
 </template>
