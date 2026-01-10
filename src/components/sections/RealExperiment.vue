@@ -15,7 +15,7 @@
 
         <!-- youtube -->
         <el-container class="video-container">
-          <iframe src="https://www.youtube.com/watch?v=Ym9ZeRszzAM" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+          <iframe src="https://www.youtube.com/embed/Ym9ZeRszzAM" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         </el-container>
       </el-col>
     </el-row>
