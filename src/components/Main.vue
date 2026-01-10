@@ -21,9 +21,8 @@ import DataSet from './sections/DataSet.vue'
 import R2RVideo from './sections/R2RVideo.vue'
 import RxRVideo from './sections/RxRVideo.vue'
 import Experiment from './sections/Experiment.vue'
-import Indoor from './sections/Indoor.vue'
-import Outdoor from './sections/Outdoor.vue'
 import RealExperiment from './sections/RealExperiment.vue'
+import AerialVideo from './sections/AerialVideo.vue'
   
   
 export default {
@@ -35,11 +34,10 @@ export default {
     // Carousel,
     R2RVideo,
     RxRVideo,
+    AerialVideo,
     AirUniArchitecture,
     DataSet,
     Experiment,
-    Indoor,
-    Outdoor,
     RealExperiment,
     // Echart,
     // Collapse,
@@ -60,6 +58,7 @@ export default {
   <DataSet/>
   <R2RVideo/>
   <RxRVideo/>
+  <AerialVideo/>
   <Experiment/>
   <RealExperiment/>
   <BibTeX/>
