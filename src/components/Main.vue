@@ -23,6 +23,7 @@ import RxRVideo from './sections/RxRVideo.vue'
 import Experiment from './sections/Experiment.vue'
 import Indoor from './sections/Indoor.vue'
 import Outdoor from './sections/Outdoor.vue'
+import RealExperiment from './sections/RealExperiment.vue'
   
   
 export default {
@@ -39,6 +40,7 @@ export default {
     Experiment,
     Indoor,
     Outdoor,
+    RealExperiment,
     // Echart,
     // Collapse,
     // Table,
@@ -61,5 +63,6 @@ export default {
   <Experiment/>
   <Indoor/>
   <Outdoor/>
+  <RealExperiment/>
   <BibTeX/>
 </template>
