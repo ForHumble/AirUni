@@ -20,7 +20,7 @@ const model_arch = './airuni_arch.png'
       class="caption-container"
     >
       <p>
-        Overview of the AirUni architecture. The model is trained on a large-scale 
+        Overview of the AirUniNav architecture. The model is trained on a large-scale 
         joint indoor–outdoor dataset containing 2.4M samples. It receives multimodal 
         inputs, including textual instructions, historical visual observations, 
         and the current visual frame, and outputs a sequence of predicted actions 
