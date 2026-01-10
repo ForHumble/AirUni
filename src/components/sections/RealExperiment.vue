@@ -6,7 +6,7 @@
     <el-divider />
 
     <el-row justify="center">
-      <h1 class="section-title">Explainer Video</h1>
+      <h1 class="section-title">Real Experiment Video</h1>
     </el-row>
 
     <!-- 每个网站的视频的iframe可能不一致，最好在这里手动调整 -->
@@ -15,7 +15,7 @@
 
         <!-- youtube -->
         <el-container class="video-container">
-          <iframe src="https://youtu.be/Ym9ZeRszzAM" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+          <iframe src="https://www.youtube.com/watch?v=Ym9ZeRszzAM" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         </el-container>
       </el-col>
     </el-row>
