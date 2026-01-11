@@ -28,6 +28,3 @@ coverage
 *.sw?
 yarn.lock
 
-# user uploaded videos
-public/video/
-*.mp4
