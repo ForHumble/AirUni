@@ -98,7 +98,7 @@ const buttons = [
     disabled: false,
     name: "Paper",
     component: Document,
-	link: "10.36227/techrxiv.176834454.46554529/v1",
+	link: "https://doi.org/10.36227/techrxiv.176834454.46554529/v1",
   },
   {
     disabled: false,
