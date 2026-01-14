@@ -98,7 +98,7 @@ const buttons = [
     disabled: false,
     name: "Paper",
     component: Document,
-	  // link: "https://github.com/JunyaoHu/academic-project-page-template-vue",
+	link: "10.36227/techrxiv.176834454.46554529/v1",
   },
   {
     disabled: false,
