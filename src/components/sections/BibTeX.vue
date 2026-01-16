@@ -3,13 +3,15 @@ export default {
   data() {
     return {
       bibtex: [
-        // "@article{junyaohu2023template,",
-        // "    title={Academic Project Page Template Vue},",
-        // "    author={Hu, Junyao},",
-        // "    journal={GitHub},",
-        // "    year={2023}",
-        // "}",
-        "waiting",
+        "@article{Luo_2026,",
+        "title={AirUniNav: Unified Vision-Language Navigation for UAVs in Indoor and Outdoor Scenes},",
+        "url={http://dx.doi.org/10.36227/techrxiv.176834454.46554529/v1},",
+        "DOI={10.36227/techrxiv.176834454.46554529/v1},",
+        "publisher={Institute of Electrical and Electronics Engineers (IEEE)},",
+        "author={Luo, Yuzhao and Zhu, Ming and Liu, Xinghan and Su, Hengzhi and Hu, Yapeng and Liu, Yuncheng and Chen, Tian},",
+        "year={2026},",
+        "month=jan }",
+        
       ],
     }
   },
